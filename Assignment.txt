@@ -1,0 +1,32 @@
+Steve purchased some stock in an electronic car stock. Here are the details of the purchase:
+    • The number of shares that Steve purchased was 1,000. (10 pts)
+    • When Steve purchased the stock, he paid $50.00 per share. (10 pts)
+    • Steve paid his stockbroker a commission that amounted to 2 percent of the amount he paid for the stock. (10 pts)
+Two weeks later, Steve sold the stock. Here are the details of the sale:
+    • The number of shares that Steve sold was 1,000. (10 pts)
+    • He sold the stock for $100.00 per share. (10 pts)
+    • He paid his stockbroker another commission that amounted to 2 percent of the amount he received for the stock. (10 pts)
+Write a program that displays the following information for any user not just Steve: (10 pts)
+    • The number of shares purchased.
+    • The amount of money a user paid for the stock, aka purchase amount.
+    • The commission a user paid his broker when he bought the stock.
+    • The number of shares sold. 
+    • The amount that a user sold the stock for.
+    • The commission a user paid his broker when he sold the stock.
+    • Display a user's profit after selling his/her stock and paying the two commissions to his broker. (If the amount of profit your program displays is negative, then the user lost money on the transaction.)
+    • Create a program that allows user to input their information. This means any user can type in the number of shares bought, the purchase price, the purchase commission (percent), the sale price, and the sale commission, and the sale percent and get the correct amount of profit. (20 pts) 
+Sample Output: Sample Input
+How many shares did you buy? 1000
+What was the purchase price of the share? 50.00
+What percent commission did you pay? (For example, type in .07 for 7%) .02
+How many shares did you sell? 1000
+What was the sale price of the shares? 100.00
+What percent commission did you pay to sell the shares? (For example, type in .07 for 7%) .02
+======================================================================
+Purchase Price:		$ 50,000.00 
+Purchase Commission: 	$  1,000.00
+Purchase Total: 	$ 51,000.00
+Sale Price: 		$100,000.00
+Sale Commission: 	$  2,000.00
+Sale Total: 		$ 98,000.00
+Profit: 		$ 47,000.00
